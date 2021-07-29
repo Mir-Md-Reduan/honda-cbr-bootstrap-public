@@ -1,6 +1,15 @@
+.honda-bg-secondary{
+    background-color: #264653;
+}
+.honda-text-warning{
+    color: #E76F51;
+}
+.honda-btn-primary{
+    background-color: #E76F51;
+}
 .first-one,.third-one{
     filter:grayscale(100%);
 }
 .fa-star,.fa-star-half-alt{
-    color:goldenrod;
+    color:#E76F51;
 }
