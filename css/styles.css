@@ -1,3 +1,6 @@
 .first-one,.third-one{
     filter:grayscale(100%);
 }
+.fa-star,.fa-star-half-alt{
+    color:goldenrod;
+}
