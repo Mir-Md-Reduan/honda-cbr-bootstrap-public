@@ -10,6 +10,22 @@
 .first-one,.third-one{
     filter:grayscale(100%);
 }
-.fa-star,.fa-star-half-alt{
+.fa-star{
     color:#E76F51;
 }
+.color-none{
+    color: none;
+}
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
